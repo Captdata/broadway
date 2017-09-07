@@ -1,0 +1,37 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+}
+p {
+  font-size: 14px;
+}
+
+a,span {
+  font-size: 18px;
+  color: white;
+}
+
+.nav{
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+}
+
+h1{
+  font-size: 70px;
+}
+
+.header, .design{
+  background-image: url(../building.png);
+}
+.header, .nav, .design{
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
